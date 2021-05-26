@@ -1,3 +1,5 @@
 a=input('hello how are you')
-
-print (a)
+if a=='good':
+    print('glad to hear that')
+else:
+    print (a)
